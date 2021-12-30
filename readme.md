@@ -1,5 +1,5 @@
 <p align="center">
-         ![Nmt chat]("/home/nix-code/Desktop/Project /Nmt-model/src/nmt_chat/assets/static/images/nmt-chat.gif")
+         ![Nmt chat]("/Nmt-model/src/nmt_chat/assets/static/images/nmt-chat.gif")
 
 </p>
 <h1 align="center" style="border: 0;"> Neural Machine Translation communication system </h1>

@@ -1,0 +1,7 @@
+python
+numpy
+pandas
+matplotlib
+Tensorflow Gpu
+Django
+

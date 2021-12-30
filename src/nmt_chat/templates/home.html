@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% load static %}
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NMT communication</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400&family=Noto+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/home/nix-code/Desktop/Project /Nmt-model/src/nmt_chat/assets/static/css/style-home.css">
+
+</head>
+<body>
+
+
+  <!-- <h1>Neural Machine Translation - Attention Model</h1> -->
+
+
+  
+
+ <div class="layout">
+   
+<h4>chat room</h4>
+            
+<div class="container">
+    <form id="post-form" method="POST" action="checkview">
+        {% csrf_token %}
+        <label style="color: white;">Room name</label>
+        
+        <input type="text" name="room_name" id="room_name" placeholder = "friends ..."width="100px" />
+        <h1></h1>
+       
+        <label style="color: white;">Username</label>
+        <input type="text" name="username" id="username" placeholder="Nishant " width="100px" />
+        <h1></h1>
+        <label>
+
+    <label style="color: white;">Language</label>
+    <select id="country" name="country">
+      <option value="english">English</option>
+      <option value="spanish">Spanish</option>
+     
+    </select>
+    <h1></h1>
+        <input type="submit" value="Enter the room">
+        </label>
+    </form>
+</div>
+
+ </div>
+</body>
+
+
+</html>

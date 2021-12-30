@@ -1,6 +1,5 @@
 <p align="center">
-         <img src="https://drive.google.com/file/d/1HJZgj5mxDT7IC3-586GCCwok0Nx_tI6Z/view" width="40" height="40" />
-
+        
 </p>
 <h1 align="center" style="border: 0;"> Neural Machine Translation communication system </h1>
 

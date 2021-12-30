@@ -1,7 +1,7 @@
 <p align="center">
        
         
-        <img src=" https://raw.githubusercontent.com/Nix-code/Nix-code-Neural-Machine-Translation-communication-system-to-diminish-language-barrier/main/src/nmt_chat/assets/static/images/nmt-chat.gif" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/Nix-code/Nix-code-Neural-Machine-Translation-communication-system-to-diminish-language-barrier/main/src/nmt_chat/assets/static/images/nmt-chat.gif" width="40" height="40" />
 </p>
 <h1 align="center" style="border: 0;"> Neural Machine Translation communication system </h1>
 

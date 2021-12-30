@@ -1,7 +1,7 @@
 <p align="center">
        
         
-        <img src="https://github.com/Nix-code/Nix-code-Neural-Machine-Translation-communication-system-to-diminish-language-barrier/blob/main/src/nmt_chat/assets/static/images/nmt-chat.gif" width="40" height="40" />
+      ![Nmt](https://raw.githubusercontent.com/Nix-code/Nix-code-Neural-Machine-Translation-communication-system-to-diminish-language-barrier/main/src/nmt_chat/assets/static/images/nmt-chat.gif)
 </p>
 <h1 align="center" style="border: 0;"> Neural Machine Translation communication system </h1>
 
@@ -33,7 +33,7 @@ The model is trained using the spanish-english dataset with 100 epochs. The data
 ## Clone the project
 
 ```
-
+git clone git@github.com:Nix-code/Nix-code-Neural-Machine-Translation-communication-system-to-diminish-language-barrier.git
 ```
 
 Basic knowledge of Django is must, as the Neural Machine Translation model is deployed on Django

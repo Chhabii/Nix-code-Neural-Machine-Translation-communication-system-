@@ -33,7 +33,7 @@ The model is trained using the spanish-english dataset with 100 epochs. The data
 ## Clone the project
 
 ```
-git clone git@github.com:Nix-code/Nix-code-Neural-Machine-Translation-communication-system-to-diminish-language-barrier.git
+git clone git@github.com:Nix-code/Nix-code-Neural-Machine-Translation-communication-system-.git
 ```
 
 Basic knowledge of Django is must, as the Neural Machine Translation model is deployed on Django

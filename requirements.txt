@@ -4,4 +4,4 @@ pandas
 matplotlib
 Tensorflow Gpu
 Django
-
+sqlite

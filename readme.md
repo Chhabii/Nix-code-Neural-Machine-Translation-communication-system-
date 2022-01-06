@@ -1,9 +1,5 @@
-<p align="center">
- 
-       
-       <img src="https://raw.githubusercontent.com/Nix-code/Nix-code-Neural-Machine-Translation-communication-system-to-diminish-language-barrier/main/src/nmt_chat/assets/static/images/nmt-chat.gif" height="450">
-</p>
-<h1 align="center" style="border: 0;"> Neural Machine Translation communication system </h1>
+<h1 style="border: 0;"> Neural Machine Translation communication system </h1>
+<img src="https://raw.githubusercontent.com/Nix-code/Nix-code-Neural-Machine-Translation-communication-system-/main/src/nmt_chat/assets/static/images/nmt-chat.gif" height="450">
 
 The model is basically direct to convert one source language to another targeted language using encoder and decoder architecture. The model encodes the message sent by the sender to a vector of fixed length and decoder generates the translated message which is received by the receiver in their communication system(chat application) automatically.
 
@@ -33,7 +29,7 @@ The model is trained using the spanish-english dataset with 100 epochs. The data
 ## Clone the project
 
 ```
-git clone git@github.com:Nix-code/Nix-code-Neural-Machine-Translation-communication-system-to-diminish-language-barrier.git
+git clone git@github.com:Nix-code/Nix-code-Neural-Machine-Translation-communication-system-.git
 ```
 
 Basic knowledge of Django is must, as the Neural Machine Translation model is deployed on Django

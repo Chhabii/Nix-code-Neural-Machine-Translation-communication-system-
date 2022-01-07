@@ -34,6 +34,4 @@ git clone git@github.com:Nix-code/Nix-code-Neural-Machine-Translation-communicat
 ```
 
 ## Liscence
-MIT<br>
-Basic knowledge of Django is must, as the Neural Machine Translation model is deployed on Django
-
+### MIT

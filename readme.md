@@ -1,6 +1,6 @@
 <h1 style="border: 0;"> Neural Machine Translation communication system </h1>
 <p align="center">
-        <a href="https://github.com/Nix-code/Neural-Machine-Translation-communication-system-/stargazers" target="_blank"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/Nix-code/Neural-Machine-Translation-communication-system-?style=for-the-badge" /></a>
+        <a href="https://github.com/Nix-code/Nix-code-Neural-Machine-Translation-communication-system-/stargazers" target="_blank"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/Nix-code/Nix-code/Neural-Machine-Translation-communication-system-?style=for-the-badge" /></a>
         &nbsp;&nbsp;&nbsp;
     
 </p>

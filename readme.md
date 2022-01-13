@@ -15,7 +15,7 @@ The model is basically direct to convert one source language to another targeted
 -   [Contribute](#Contribute)
 -   [About](#About)
 -   [Evaluation](#Evaluation)
--   [Liscence](#Liscence)
+-   [Licence](#Licence)
 
 
 
@@ -52,5 +52,5 @@ git clone git@github.com:Nix-code/Nix-code-Neural-Machine-Translation-communicat
 python3 manage.py runserver
 ```
 
-## Liscence
+## Licence
 ### MIT

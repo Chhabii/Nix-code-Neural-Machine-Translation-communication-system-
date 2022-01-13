@@ -28,6 +28,12 @@ The model is basically direct to convert one source language to another targeted
 
 ## About
 The model is trained using the spanish-english dataset with 100 epochs. The dataset contains about 110k rows and took about 4 hours to train using Nvidia GTX 1650 graphics card.
+## Evaluation
+```
+Epoch 100 Batch 600 Loss 0.24747854098677635
+Epoch 100 Loss 0.0356
+Time taken for 1 epoch 174.43703937530518 sec
+```
 
 ## Clone the project
 

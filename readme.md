@@ -1,4 +1,4 @@
-<h1 style="border: 0;"> Neural Machine Translation communication system </h1>
+<h1 style="border: 0;"> Neural Machine Translated communication system </h1>
 
 
 <img src="https://raw.githubusercontent.com/Nix-code/Nix-code-Neural-Machine-Translation-communication-system-/main/src/nmt_chat/assets/static/images/nmt-chat.gif" height="450">

@@ -29,7 +29,7 @@ The model is basically direct to convert one source language to another targeted
 
 -   Fork the repository
 -   Commit your changes
--   push to the branch & open a pull request
+-   create Pull request
 
 ## About
 The model is trained using the spanish-english dataset with 100 epochs. The dataset contains about 110k rows and took about 4 hours to train using Nvidia GTX 1650 graphics card.

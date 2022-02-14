@@ -51,6 +51,11 @@ git clone git@github.com:Nix-code/Nix-code-Neural-Machine-Translation-communicat
 ```
 python3 manage.py runserver
 ```
+or
+```
+bash run.sh
+```
+
 
 ## Licence
 ```MIT```

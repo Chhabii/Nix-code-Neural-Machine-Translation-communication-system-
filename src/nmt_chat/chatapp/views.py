@@ -5,7 +5,7 @@ from django.http import HttpResponse,JsonResponse
 # call ml model
 
 import sys
-path = "/home/nix-code/Desktop/Project /Nmt-model/src/model"
+path = "/home/nix-code/Desktop/Neural-Machine-Translated-communication-system/src/model"
 sys.path.insert(0,path)
 from final_test import*
 

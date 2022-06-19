@@ -87,7 +87,7 @@ def plot_attention(attention, sentence, predicted_sentence):
 def translate(sentence):
   result, sentence, attention_plot = evaluate(sentence)
   attention_plot = attention_plot[:len(result.split(' ')), :len(sentence.split(' '))]
-#  plot_attention(attention_plot, sentence.split(' '), result.split(' '))
+  plot_attention(attention_plot, sentence.split(' '), result.split(' '))
 
   return result
 

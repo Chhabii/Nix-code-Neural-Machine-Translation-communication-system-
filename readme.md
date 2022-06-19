@@ -14,6 +14,7 @@ The model is basically direct to convert one source language to another targeted
 -   [Prerequisites](#prerequisites)
 -   [Contribute](#Contribute)
 -   [About](#About)
+-   [Logic](#Logic)
 -   [Evaluation](#Evaluation)
 -   [Licence](#Licence)
 
@@ -33,6 +34,10 @@ The model is basically direct to convert one source language to another targeted
 
 ## About
 The model is trained using the spanish-english dataset with 100 epochs. The dataset contains about 110k rows and took about 4 hours to train using Nvidia GTX 1650 graphics card.
+
+## Logic
+- Logic behind sender and receiver's communication system.
+<img src="https://github.com/Nix-code/Neural-Machine-Translated-communication-system/blob/main/public/model-assets/logic_send_receive.png">
 
 ## Evaluation
 ```

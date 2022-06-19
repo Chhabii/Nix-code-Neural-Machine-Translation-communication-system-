@@ -1,7 +1,7 @@
 <h1 style="border: 0;"> Neural Machine Translated communication system </h1>
 
 
-<img src="https://raw.githubusercontent.com/Nix-code/Nix-code-Neural-Machine-Translation-communication-system-/main/src/nmt_chat/assets/static/images/nmt-chat.gif" height="450">
+<img src="https://github.com/Nix-code/Neural-Machine-Translated-communication-system/blob/main/public/model-assets/demo.gif" height="450">
 
 The model is basically direct to convert one source language to another targeted language using encoder and decoder architecture. The model encodes the message sent by the sender to a vector of fixed length and decoder generates the translated message which is received by the receiver in their communication system(chat application) automatically.
 

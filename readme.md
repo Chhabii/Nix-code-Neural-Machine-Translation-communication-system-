@@ -5,9 +5,9 @@
 
 The model is basically direct to convert one source language to another targeted language using encoder and decoder architecture. The model encodes the message sent by the sender to a vector of fixed length and decoder generates the translated message which is received by the receiver in their communication system(chat application) automatically.
 
-### Project status
-- Ongoing 
+### Project status (Pending work)
 - Backend improvements yet to be done
+- User authentication and UI improvement 
 
 # Table Of Contents
 

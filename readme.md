@@ -34,6 +34,8 @@ The model is basically direct to convert one source language to another targeted
 
 ## About
 The model is trained using the spanish-english dataset with 100 epochs. The dataset contains about 110k rows and took about 4 hours to train using Nvidia GTX 1650 graphics card.
+### Why not using Google API for language translator
+<p> Not used Google translator API beacase, I want to make ML model from scratch without using any API's. I believe, using API(In this case), is very good to make the translator with very less bias but I never did this project in the sake of just making it work rather than learning from it. Making end to end attention model from scratch helped to learn about how actually the neural machine translator work using Machine Learning techniques. For now, I see this project as a prototype and demonstration of good auto translated communication system.</p>
 
 ## Logic
 - Logic behind sender and receiver's communication system.

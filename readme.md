@@ -65,4 +65,4 @@ bash run.sh
 
 
 ## Licence
-```MIT```
+<p> The project is Licenced under <b>MIT</b> Licence</p>
